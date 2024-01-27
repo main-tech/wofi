@@ -1,0 +1,26 @@
+*{
+  border-radius:9px;
+border:none;
+}
+window {
+  font-size:20px;
+  /* font-family: "" */
+  background-color:rgba(6,0,18,0.8);
+}
+#entry:selected{
+/* background-color:#bbccdd; */
+background: linear-gradient(90deg,#9C27B0,#2196F3);
+  }
+#text:selected{
+    color:white;
+    background-color :transparent;
+  }
+#input{
+    background-color:rgba(6.0.18,0.5);
+    color:white;
+    padding:0.25em;
+  }
+image{
+  margin-left:0.25em;
+  margin-right:0.25em;
+}
