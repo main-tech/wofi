@@ -16,4 +16,4 @@ Edit the `wofi-config` file to tweak the appearance, behavior, and keybindings o
 Launch Wofi with your configured settings:
 
 ```bash
-wofi --show drun
+wofi  --show drun
