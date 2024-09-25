@@ -1,4 +1,3 @@
-
 # Wofi Configuration
 
 This repository contains a custom configuration for Wofi, the Wayland program launcher. This setup enhances the look and functionality of Wofi to fit your preferences.
@@ -11,9 +10,9 @@ This repository contains a custom configuration for Wofi, the Wayland program la
 ## Customization
 
 Edit the `wofi-config` file to tweak the appearance, behavior, and keybindings of Wofi to suit your needs.
-## Usage
 
-Launch Wofi with your configured settings:
+### Dark Theme Support
 
-```bash
-wofi  --show drun
+This configuration works seamlessly with dark themes. You can easily adjust Wofi to match your dark mode setup by using tools like `nwg-look`. `nwg-look` simplifies the process of managing GTK themes, icons, and cursors under Wayland. Once installed, you can use it to set dark themes for Wofi, giving your launcher a cohesive look with the rest of your desktop environment.
+### Usage
+wofi --show drun
